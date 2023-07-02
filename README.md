@@ -1,6 +1,5 @@
 <h1>Dev em Dobro - Formulário de Validação<h1></h1>
 Este repositório contém o código-fonte da quest "Dev em Dobro" do curso, onde desenvolvi um formulário com validação utilizando HTML, CSS e JavaScript.
-
 <h1>Descrição do Projeto</h1>
 Nesta quest, criei um formulário interativo que permite aos usuários inserirem informações importantes, como nome, e-mail, telefone e mensagem. Utilizei técnicas de validação para garantir que todos os campos obrigatórios sejam preenchidos corretamente antes do envio dos dados.
 
